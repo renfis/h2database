@@ -1,5 +1,8 @@
 # h2database
-Docker image for [h2database](https://www.h2database.com/)
+
+![Docker Image CI](https://github.com/renfis/h2database/workflows/Docker%20Image%20CI/badge.svg)
+
+Docker image for [h2database](https://www.h2database.com/).
 
 # Quickstart
 
