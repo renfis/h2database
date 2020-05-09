@@ -45,7 +45,8 @@ docker run --rm \
        renfis/h2database \
        -web \
        -webAllowOthers \
-       -baseDir /data
+       -baseDir /data \
+       -ifNotExists
 ```
 
 Open http://localhost:8092 to connect to the database.
